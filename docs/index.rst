@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-ESPnet: end-to-end speech processing toolkit
+Xiaoganggangnet: end-to-end speech processing toolkit
 ============================================
 .. image:: ./image/espnet_logo1.png
 
