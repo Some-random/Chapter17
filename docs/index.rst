@@ -7,7 +7,7 @@ Xiaoganggangganggangnet: end-to-end speech processing toolkit
 ============================================
 .. image:: ./image/espnet_logo1.png
 
-ESPnet is an end-to-end speech processing toolkit, mainly focuses on end-to-end speech recognition and end-to-end text-to-speech.
+Xiaoganggangganggangnet is an end-to-end speech processing toolkit, mainly focuses on end-to-end speech recognition and end-to-end text-to-speech.
 
 .. toctree::
    :maxdepth: 1
